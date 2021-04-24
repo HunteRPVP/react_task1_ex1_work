@@ -1,10 +1,10 @@
 {
   "name": "react_task1_ex1_work",
   "version": "1.0.0",
-  "description": "first react project\b\b\b\b\b\b",
+  "description": "first react project",
   "main": "index.js",
   "scripts": {
-    "test": "npm \b\b\bode index.js"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
