@@ -1,0 +1,23 @@
+{
+  "name": "react_task1_ex1_work",
+  "version": "1.0.0",
+  "description": "first react project\b\b\b\b\b\b",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm \b\b\bode index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunteRPVP/react_task1_ex1_work.git"
+  },
+  "keywords": [
+    "js",
+    "simple"
+  ],
+  "author": "VP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunteRPVP/react_task1_ex1_work/issues"
+  },
+  "homepage": "https://github.com/HunteRPVP/react_task1_ex1_work#readme"
+}
