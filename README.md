@@ -6,3 +6,14 @@
 |-------|:------:|-------:|
 | row 1 | cell1  | cell2  |
 | row 2 | cell3  | cell4  |
+
+```plantuml
+@startuml component
+actor client
+node app
+database db
+
+db -> app
+app -> client
+@enduml
+```
